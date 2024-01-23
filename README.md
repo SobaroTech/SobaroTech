@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sobur! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Sobur! <br/><a href="https://github.com/SobaroTech">Programmer</a>, <a href="https://www.linkedin.com/in/Sobur Adebowale/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
